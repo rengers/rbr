@@ -12,3 +12,7 @@ Ross' Bagel Ranking
 
 ## To sample
 * Wise Sons 24th street
+* 20th Century Cafe (198 Gough St)
+* The Bagel Bakery (151 Townsend St)
+* Wise Sons (1520 Fillmore St)
+* Nopa (560 Divisadero St)
